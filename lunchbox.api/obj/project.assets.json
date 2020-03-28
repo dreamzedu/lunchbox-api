@@ -12167,11 +12167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manoj_dwivedi\\source\\repos\\mobile_apps\\lunchbox.api\\lunchbox.api\\lunchbox.api.csproj",
+      "projectUniqueName": "C:\\Users\\manoj_dwivedi\\Documents\\GitHub\\lunchbox-api\\lunchbox.api\\lunchbox.api.csproj",
       "projectName": "lunchbox.api",
-      "projectPath": "C:\\Users\\manoj_dwivedi\\source\\repos\\mobile_apps\\lunchbox.api\\lunchbox.api\\lunchbox.api.csproj",
+      "projectPath": "C:\\Users\\manoj_dwivedi\\Documents\\GitHub\\lunchbox-api\\lunchbox.api\\lunchbox.api.csproj",
       "packagesPath": "C:\\Users\\manoj_dwivedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manoj_dwivedi\\source\\repos\\mobile_apps\\lunchbox.api\\lunchbox.api\\obj\\",
+      "outputPath": "C:\\Users\\manoj_dwivedi\\Documents\\GitHub\\lunchbox-api\\lunchbox.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

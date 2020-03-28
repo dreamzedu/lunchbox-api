@@ -12,3 +12,17 @@ C:\Users\manoj_dwivedi\source\repos\mobile_apps\lunchbox.api\lunchbox.api\obj\De
 C:\Users\manoj_dwivedi\source\repos\mobile_apps\lunchbox.api\lunchbox.api\bin\Debug\netcoreapp2.1\lunchbox.api.pdb
 C:\Users\manoj_dwivedi\source\repos\mobile_apps\lunchbox.api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.dll
 C:\Users\manoj_dwivedi\source\repos\mobile_apps\lunchbox.api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.pdb
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\bin\Debug\netcoreapp2.1\lunchbox.api.deps.json
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\bin\Debug\netcoreapp2.1\lunchbox.api.runtimeconfig.json
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\bin\Debug\netcoreapp2.1\lunchbox.api.runtimeconfig.dev.json
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\bin\Debug\netcoreapp2.1\lunchbox.api.dll
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\bin\Debug\netcoreapp2.1\lunchbox.api.pdb
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.csprojAssemblyReference.cache
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.csproj.CoreCompileInputs.cache
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.RazorAssemblyInfo.cache
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.RazorAssemblyInfo.cs
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.AssemblyInfoInputs.cache
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.AssemblyInfo.cs
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.RazorTargetAssemblyInfo.cache
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.dll
+C:\Users\manoj_dwivedi\Documents\GitHub\lunchbox-api\lunchbox.api\obj\Debug\netcoreapp2.1\lunchbox.api.pdb

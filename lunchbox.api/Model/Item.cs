@@ -15,5 +15,5 @@ namespace lunchbox.api.Model
         public string image;
         public string description;
         public string nutrients;
-    }
+    } 
 }

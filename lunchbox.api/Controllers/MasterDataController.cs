@@ -299,5 +299,11 @@ namespace lunchbox.api.Controllers
         {
         }
 
+        [HttpGet("{id}")]
+        public ActionResult<string> Test(int id)
+        {
+            return id.ToString();
+        }
+
     }
 }
